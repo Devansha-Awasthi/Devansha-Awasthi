@@ -1,4 +1,4 @@
-**"I committed my code. Now I just need to be committed."**
+# *"I committed my code. Now I just need to be committed."*
 # 💫 About Me:
 🛠 I’m currently working on augmented reality (AR) and virtual reality (VR) projects, exploring game development and 3D modeling.<br>🤝 I’m looking to collaborate on game development, AR/VR applications, and AI-powered user interfaces.<br>🏀 I’m looking for help with advanced shader programming and real-time rendering techniques.<br>🌱 I’m currently learning Unreal Engine, OpenCV, and MediaPipe for AR/VR applications.<br>💬 Ask me about game development, debugging, UI programming, and software engineering.<br>⚡ Fun fact I started web development in school and have been passionate about gaming ever since!
 

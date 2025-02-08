@@ -1,3 +1,4 @@
+**"I committed my code. Now I just need to be committed."**
 # 💫 About Me:
 🛠 I’m currently working on augmented reality (AR) and virtual reality (VR) projects, exploring game development and 3D modeling.<br>🤝 I’m looking to collaborate on game development, AR/VR applications, and AI-powered user interfaces.<br>🏀 I’m looking for help with advanced shader programming and real-time rendering techniques.<br>🌱 I’m currently learning Unreal Engine, OpenCV, and MediaPipe for AR/VR applications.<br>💬 Ask me about game development, debugging, UI programming, and software engineering.<br>⚡ Fun fact I started web development in school and have been passionate about gaming ever since!
 
@@ -29,9 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Devansha-Awasthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devansha-Awasthi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansha-Awasthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Devansha-Awasthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
